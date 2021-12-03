@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Flut.cs" />
+    <Compile Include="Gitar.cs" />
+    <Compile Include="MuzikAleti.cs" />
+    <Compile Include="Muzisyen.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
